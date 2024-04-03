@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex Cultrera
+
+
+🛠️ I work with Java, HTML, and CSS. I'm currently immersed in a rigorous, Java focused, software development bootcamp with @tp02ga, where I'm honing my technical abilities and gaining practical experience as a full-stack developer. 
+
+🔭 I am looking to apply my blend of technical expertise and project management acumen to contribute meaningfully to dynamic teams. 
+
+🤝 Let's connect and explore how I may be able to tackle challenging problems and deliver impactful solutions for you and your organization.
+
+
 
 <!--
 **Alex-Cultrera/Alex-Cultrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
