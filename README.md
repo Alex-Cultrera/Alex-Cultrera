@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Alex Cultrera
 
 
-🛠️ I work with Java, Spring, MySQL, React, JS, HTML, and CSS. I'm currently immersed in a rigorous, Java focused, software development bootcamp with @CodersCampus, where I'm honing my technical abilities and gaining practical experience as a full-stack developer. 
+🛠️ I work with Java, Spring, MySQL, React, JS, HTML, and CSS. I'm currently immersed in a rigorous, Java focused, software development bootcamp with @CodersCampus, where I'm honing my technical abilities and gaining practical experience as a full stack developer. 
 
 🔭 I am looking to blend my technical skillset with my experience across project management, operations, and sales to contribute meaningfully to dynamic teams. 
 
