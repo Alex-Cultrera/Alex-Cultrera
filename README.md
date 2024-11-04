@@ -3,7 +3,7 @@
 
 🛠️ I work with Java, Spring, MySQL, Hibernate, Thymeleaf, React, JavaScript, HTML, and CSS. 
 
-🔭 My goal is to enhance operational efficiencies and deliver impactful solutions. I approach technical challenges with a comprehensive perspective gained from over a decade of experience across project management, operations, and sales. 
+🔭 My goal is to enhance operational efficiencies and deliver impactful solutions. I approach technical challenges with a comprehensive perspective gained from over a decade of experience across project management, operations, sales, and digital marketing. 
  
 🤝 Let's connect and explore how I may be able to optimize workflows and tackle complex challenges for you and your organization.
 
