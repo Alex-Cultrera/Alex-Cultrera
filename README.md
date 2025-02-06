@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Alex Cultrera
 
 
-🛠️ I work with Java, Spring, MySQL, Hibernate, Thymeleaf, React, JavaScript, HTML, and CSS. 
+🛠️ I work with Java, Spring, MySQL, AWS, Hibernate, Thymeleaf, React, JavaScript, HTML, and CSS. 
 
 🔭 I focus on building scalable, performance-optimized web applications, including implementing Thymeleaf for MVC-based views and Hibernate mapping for seamless back-end integration. I am passionate about continuous learning and applying new technologies to solve complex challenges. Additionally, I bring over a decade of experience in project management, operations, sales, and digital marketing, which gives me with a unique, well-rounded perspective on both technical and business challenges. 
  
