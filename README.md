@@ -3,7 +3,7 @@
 
 🛠️ I work with Java, Spring, MySQL, AWS, Hibernate, Thymeleaf, React, JavaScript, HTML, and CSS. 
 
-🔭 I focus on building scalable, performance-optimized web applications, including implementing Thymeleaf for MVC-based views and Hibernate mapping for seamless back-end integration. I am passionate about continuous learning and applying new technologies to solve complex challenges. Additionally, I bring over a decade of experience in project management, operations, sales, and digital marketing, which gives me with a unique, well-rounded perspective on both technical and business challenges. 
+🔭 I focus on building scalable, performance-optimized web applications. I am experienced in building MVC-based views, including Thymeleaf for server-side rendering as well as React for dynamic, client-side interfaces, and I implement Hibernate mapping for seamless back-end integration. I am passionate about continuous learning and applying new technologies to solve complex challenges, and have a growing interest in React and AWS. Additionally, I bring over a decade of experience in project management, operations, sales, and digital marketing, which gives me with a unique, well-rounded perspective on both technical and business challenges. 
  
 🤝 Let's connect and explore how I may be able to optimize workflows and tackle complex challenges for you and your organization.
 
